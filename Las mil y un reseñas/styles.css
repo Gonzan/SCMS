@@ -1,0 +1,193 @@
+
+h1{
+  font-family: 'Lobster', cursive;
+text-align: center;
+font-size: 72px;
+text-decoration:none;
+color:rgb(125, 189, 189);
+
+}
+body{
+  background-image: url(images/biblioteca2.jpg);
+  text-align: center;
+  background-attachment: fixed;
+
+}
+p{
+  background-color:rgba(242, 242, 242, 0.62);
+  width: 500px;
+  margin:15px auto;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+a {
+  background-color:white;
+  color: rgb(179, 120, 226);
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 5px;
+  border: 3px solid rgb(196, 183, 137);
+  margin: 10px 0;
+
+}
+h2{
+  color: rgb(247, 193, 254);
+  font-family: 'Dancing Script', cursive;
+}
+a:visited{
+  color: rgb(125, 189, 189);
+}
+a:hover{
+  background-color: rgba(128, 142, 148, 0.42);
+}
+.harrypotter{
+  width: 20%;
+  float: left;
+}
+.cinder{
+  width:20%;
+  float: left;
+}
+.fangirl{
+  width: 20%;
+  float: left;
+}
+.percy{
+  width: 20%;
+  float: left;
+}
+.shadowhunters{
+  width: 20%;
+  float: left;
+}
+.papertowns{
+  width: 20%;
+  float: left;
+}
+.cellphone{
+  width: 20%;
+  float: left;
+}
+.divergent{
+  width: 20%;
+  float: left;
+}
+.faultstars{
+  width: 20%;
+  float: left;
+}
+.hushhush{
+  width: 20%;
+  float: left;
+}
+.contenedor-libros{
+  overflow: hidden;
+}
+.contenedor-libros p{
+  text-align: center;
+  width: 63%;
+}
+.contenedor-libros a{
+  display: block;
+  color: rgb(179, 120, 226);
+  text-decoration: none;
+}
+.contenedor-libros a:hover{
+  background-color:rgb(221, 184, 114);
+
+}
+.contenedor-principal{
+  overflow: hidden;
+}
+  .contenedor-img{
+    width: 25%;
+    float:left;
+  }
+.contenedor-texto{
+  width: 75%;
+  float:left;
+}
+.titulo1{
+  text-decoration: none;
+}
+ul{
+  padding: 0;
+}
+li{
+  background-color:rgba(242, 242, 242, 0.62);
+  width: 500px;
+  margin:15px auto;
+  font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+  background-color:rgba(242, 242, 242, 0.62);
+  width: 500px;
+  margin:15px auto;
+}
+.hero-girl{
+  overflow: hidden;
+  border: 5px double rgb(179, 120, 226);
+}
+
+.hero-girl:hover{
+
+  background-color:rgba(247, 193, 254, 0.2);
+}
+.hg-imagen{
+float: left;
+width: 17%;
+}
+.hg-imagen img{
+  width: 80%;
+}
+.hg-texto{
+  float: left;
+  width: 83%;
+}
+.wires{
+  height: 350px;
+  margin: 10px 0;
+}
+h4{
+  background-color:rgba(242, 242, 242, 0.62);
+  width: 500px;
+  margin:15px auto;
+
+}
+.contenedor-img img{
+  margin:60px 0
+}
+
+.volverAPaginaPrincipal {
+
+  text-align: right;
+
+}
+.formulario{
+  text-align: right;
+}
+label{
+  color: white;
+ font-size: 20px;
+ font-family: 'Josefin Sans', sans-serif;
+}
+input{
+    border-radius: 20px;
+}
+input:focus{
+  background-color:rgb(179, 120, 226);
+
+}
+textarea{
+  resize: vertical;
+}
+
+button{
+  font-size: 15px;
+}
+footer{
+  background-color: rgba(102, 20, 135, 0.8);
+  color: white;
+  margin: 30px auto;
+}
